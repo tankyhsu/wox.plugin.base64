@@ -1,0 +1,12 @@
+{
+    "ID":"581f2902-2dfb-11ea-978e-00bb60376c17",
+    "ActionKeyword":"base",
+    "Name":"Base64",
+    "Description":"Base64 Encode & Decode",
+    "Author":"tankyhsu",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/tankyhsu",
+    "IcoPath":"Images\\base64.ico",
+    "ExecuteFileName":"main.py"
+}
